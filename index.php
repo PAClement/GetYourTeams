@@ -8,7 +8,6 @@
     <title>GetYourTeams</title>
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/main.css">
 </head>
 
 <body class="bg-dark text-white">
