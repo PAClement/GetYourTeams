@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="assets/css/main.css">
 </head>
 
-<body>
+<body class="bg-dark text-white">
     <nav>
         <div class="container">
             <p class="text-center text-muted pt-3">&copy; <?php echo date('Y'); ?> GetYourTeams, v.1</p>
@@ -44,7 +44,6 @@
         </div>
     </div>
 
-    <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/bootstrap.bundle.min.js"></script>
     <script src="assets/js/shuffle.js"></script>
     <script src="assets/js/teams.js"></script>

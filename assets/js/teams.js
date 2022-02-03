@@ -11,7 +11,7 @@ document.querySelector('#participate').addEventListener("change", function () {
     for (i = 0; i < this.value; i++) {
         x++;
 
-        let current_input = '<input id =\"current_' + x + '\" type=\"text\" class=\"form-control name_participant\" placeholder=\"' + x + ' - mate \" aria-label=\"Username\" aria-describedby=\"basic-addon1\">';
+        let current_input = '<input id =\"current_' + x + '\" type=\"text\" class=\"form-control name_participant my-1\" placeholder=\"' + x + ' - mate \" aria-label=\"Username\" aria-describedby=\"basic-addon1\">';
 
         concurrents = concurrents.concat(current_input);
     }
